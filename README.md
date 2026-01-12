@@ -86,7 +86,6 @@ This project models the propagation dynamics of a virus (SARS-CoV-2) using a **S
 COVID-19_CANADA_ANALYSIS/
 ├── data/               # Raw epidemiological data (CSV)
 ├── src/                # Modular mathematical library
-│   ├── __pycache__/
 │   ├── diff_equations.py
 │   ├── integrations.py
 │   ├── interpolations.py
